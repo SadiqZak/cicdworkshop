@@ -2,12 +2,14 @@
 
 R in Pharma 2022 CI/CD workshop repository.
 
+Date: 15DEC2022
+
 ## Exercises
 
 ### Exercise 1
 
 Fix issues identified by **R CMD check** workflow.
-
+s
 <details><summary>Click here for a hint 🔎</summary>
 A unit test is failing for <code>hello.R</code>.
 </details>
